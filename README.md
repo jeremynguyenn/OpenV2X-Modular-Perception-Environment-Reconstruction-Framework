@@ -87,7 +87,7 @@ Make sure you have the following software and libraries installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/self_driving_vision_and_reconstruction.git
+   https://github.com/jeremynguyenn/OpenV2X-Modular-Perception-Environment-Reconstruction-Framework.git
    ```
    ```bash
    cd self_driving_vision_and_reconstruction
