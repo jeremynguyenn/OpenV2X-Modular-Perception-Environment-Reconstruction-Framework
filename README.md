@@ -1,9 +1,5 @@
 # OpenV2X Framework
 
-## System Architecture
-
-<img src="./img/Architecture_f.png" alt="System Architecture" width="1080"/>
-
 Description:
 **OpenV2X** is a modular cyber-physical framework designed for real-time environmental perception and interactive feedback in software-defined vehicles. The system integrates vision-based perception with V2X communication capabilities to enable comprehensive scene reconstruction and human-in-the-loop feedback mechanisms.
 
